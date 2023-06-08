@@ -26,7 +26,7 @@ class Solution {
                 return "YES";
         }
 
-        return "NO";
+        return "TEST";
     }
 
     static void Main(string[] args) {
